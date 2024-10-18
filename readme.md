@@ -1,3 +1,8 @@
+[![CraigDoesData][logo]][link]
+
+[logo]: ./imgs/logo.png
+[link]: https://www.craigdoesdata.com/
+
 # Stock Market Analysis with Python
 
 Welcome to this comprehensive stock analysis project! This Jupyter notebook provides a deep dive into the performance of major tech stocks: AAPL, MSFT, and GOOGL.
